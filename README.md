@@ -31,11 +31,6 @@
   guillermo@datacloudgui.com
 </p>
 
----
-
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=datacloudgui.visitor-badge">
-<p/>
 <!--
 **datacloudgui/datacloudgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

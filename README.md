@@ -1,6 +1,12 @@
 # ~/ Datacloudgui
 
-**Hola, soy Guillermo, ingeniero mecatrónico apasionado por la programación, la nube y la extracción de datos. Tengo experiencia en programación de robots y estoy desarrollando proyectos de ingeniería de datos - ETL (Extracción, Transformación y Carga). Acá te dejo mis redes donde difundo información sobre análisis de datos y programación, también te dejo mi portafolio y hoja de vida. Proximamente mi sitio web 💻😃**
+**Hola, soy Guillermo, ingeniero mecatrónico apasionado por la programación, la nube y la extracción de datos. Tengo experiencia en programación Python para robótica y visión por computador en proyectos de investigación y estoy desarrollando proyectos de ingeniería de datos - ETL (Extracción, Transformación y Carga).  En busca de nuevos retos e interesado en trabajar en recolección, procesamiento y analítica de datos.**
+
+**Desarrollo diferentes proyectos personales como: Recolección y comparación de precios de productos a través del tiempo, manejo de cursos desde la API de Google classroom y manejo de hojas de cálculo con Python. **
+**¿Qué problema, puedo ayudarte a solucionar?**
+
+**Acá te dejo mis redes donde difundo información sobre análisis de datos y programación, también te dejo mi portafolio y hoja de vida. 
+Proximamente mi sitio web 💻😃**
 
 # Mis redes
 

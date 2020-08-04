@@ -1,4 +1,4 @@
-# ~/ Datacloudgui
+# ~/ Datacloudgui - [Datacloudgui.com](datacloudgui.com)
 
 **Hola, soy Guillermo, Ingeniero mecatrónico apasionado por la programación, la nube, el manejo y la extracción de datos. Con experiencia en programación Python para robótica y visión por computador en proyectos de investigación, conocimientos de bases de datos relacionales (SQL) y Google Cloud.**
 
@@ -8,8 +8,7 @@
 
 **¿Qué problema, puedo ayudarte a solucionar?**
 
-**Acá te dejo mis redes donde difundo información sobre análisis de datos, cloud y programación, también te dejo mi portafolio y hoja de vida. 
-Proximamente mi sitio web 💻😃**
+**Acá te dejo mis redes donde difundo información sobre análisis de datos, cloud y programación, también te dejo mi mi sitio web 💻😃, portafolio y hoja de vida.**
 
 # Mis redes
 
